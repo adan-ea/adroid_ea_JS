@@ -1,3 +1,7 @@
+# === ARCHIVED VERSION ===
+Actual branch : https://github.com/adan-ea/adroid_ea
+
+Last commmit on main about this : [3203045](https://github.com/adan-ea/adroid_ea/commit/3203045784afa5e08ad944ff76ff2fb1276d34a8)
 # 📖 Introduction
 
 This is a discord bot primarly made for my discord server (this is why some values are hard coded) but feel free to use the code for yourself.
